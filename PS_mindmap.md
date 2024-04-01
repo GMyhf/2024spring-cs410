@@ -16,7 +16,7 @@ Portfolio selection refers to the process of choosing a combination of assets or
 mindmap
   root(**Portfolio Selection**)
     Academics{{**学院派**}}
-    	B: Economic Foundations
+    	B: 经济学
     		Production Possibilities Frontier (PPF)
     		Trade
     		Supply, Demand
@@ -24,7 +24,7 @@ mindmap
     		Elasticity, Revenue
     		Taxes, Surplus
     		Imports, Exports, Tariffs
-    	B: Basic Finance
+    	B: 金融学
     		Compound Interest, 
     		Present Value (PV)
     		Time Value of Money (TVM)
@@ -35,7 +35,7 @@ mindmap
     		Dividend Discount Model (DDM)
     		Risk, Beta
     		Capital Asset Pricing Model (CAPM)
-    	B: Corporate Finance
+    	B: 公司财务
     		PV, NPV, IRR
     		Depreciation
     		CAPM
@@ -44,13 +44,13 @@ mindmap
     		Weighted Average Cost of Capital (WACC)
     		Relative Valuation
     		Forword Contract Valuation
-    	B: Modern Portfolio Theory and Investment
+    	B: 现代投资组合理论与投资分析v9
     		
       
     Wall Street{{**华尔街派**}}
-    	B: Random Walk Down Wall Street
-    	B: Way of the Turtle
-    	B: Future Short and Long Logics
+    	B: 漫步华尔街v12
+    	B: 海龟交易法则v4
+    	B: 期货多空逻辑
 
 ```
 
