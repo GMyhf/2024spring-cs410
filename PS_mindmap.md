@@ -1,6 +1,6 @@
 # 投资组合知识图谱
 
-Updated 1832 GMT+8 Aprial 1, 2024
+Updated 0851 GMT+8 Aprial 9, 2024
 
 2024 spring, Complied by Hongfei Yan
 
@@ -51,6 +51,7 @@ mindmap
     	B: 漫步华尔街v12
     	B: 海龟交易法则v4
     	B: 期货多空逻辑
+    	B: 财报这么有趣
 
 ```
 
